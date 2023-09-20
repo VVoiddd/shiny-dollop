@@ -49,5 +49,3 @@ Contributions are welcomed. If you're thinking of major alterations, kindly init
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-This version uses checkboxes to represent features and prerequisites. In platforms like GitHub, these checkboxes will be displayed as interactive elements, but the user won't be able to modify them directly from the README view. They give a visual representation of what's done and what's pending.
